@@ -1,5 +1,5 @@
 deployment:
-  imageVersion: latest
+  imageVersion: v1
   replicas: 2
 
 service:
